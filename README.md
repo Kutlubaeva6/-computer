@@ -14,11 +14,11 @@
 
 ### Решение:
 
-1. Создан репозиторий: ** **
+1. Создан репозиторий: **computer**
 
 2. Текстовое описание решения (файл **README.md**)
 
-3. Программа находится в ветке [`main`](https://github.com/Kutlubaeva6/phonebook/blob/main/phone.py "Открыть решение")
+3. Программа находится в ветке [`main`](https://github.com/Kutlubaeva6/-computer/edit/main/main.java "Открыть решение")
 
 4. Описание:
 
